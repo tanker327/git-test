@@ -10,5 +10,3 @@ new line
 
 branch / test
 b 1111111
-
-2222222
