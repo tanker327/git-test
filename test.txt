@@ -1,5 +1,3 @@
 Hello world !!
 
 new line
-
-new new line
